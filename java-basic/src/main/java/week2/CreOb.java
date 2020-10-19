@@ -4,7 +4,6 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import javax.annotation.Resource;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.ObjectInputStream;
