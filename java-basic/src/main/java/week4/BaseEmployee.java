@@ -12,9 +12,9 @@ public abstract class BaseEmployee {
            System.out.println("this is an abstract class.");
        }
 
-       /*
-       * 发工资
-       * @return int
-       * */
+    /**
+     * 发工资
+     * @return int
+     * */
        public abstract int getSalary();
 }

@@ -19,7 +19,6 @@ public class OverLoadTest {
         StringBuffer stringBuffer = new StringBuffer();
         stringBuffer.append(s1);
         stringBuffer.append(s2);
-//        return stringBuffer.toString();
         return s1 + s2;
     }
 
