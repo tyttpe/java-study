@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="week6.frame.LoginFrame">
+  <grid id="27dc6" binding="mainPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="840" height="549"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="55143" binding="centerPanel" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints border-constraint="Center"/>
+        <properties>
+          <background color="-197121"/>
+          <preferredSize width="0" height="0"/>
+        </properties>
+        <border type="etched">
+          <font size="16" style="2"/>
+          <title-color color="-8631570"/>
+        </border>
+        <children>
+          <grid id="436ec" binding="logoPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-8631574"/>
+              <toolTipText value=""/>
+            </properties>
+            <border type="none">
+              <font size="18" style="0"/>
+              <title-color color="-4473925"/>
+            </border>
+            <children>
+              <component id="54c1e" class="javax.swing.JLabel" binding="logoLabel">
+                <constraints border-constraint="Center"/>
+                <properties>
+                  <font size="64" style="0"/>
+                  <foreground color="-1"/>
+                  <horizontalAlignment value="0"/>
+                  <text value="LOVE-SHOW"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="f02a9" binding="loginPanel" layout-manager="GridLayoutManager" row-count="5" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="20">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-197121"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="3e8e9" class="javax.swing.JLabel" binding="loginLabel">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="48" style="0"/>
+                  <foreground color="-16777216"/>
+                  <horizontalAlignment value="0"/>
+                  <horizontalTextPosition value="0"/>
+                  <text value="登录"/>
+                  <verticalAlignment value="0"/>
+                  <verticalTextPosition value="0"/>
+                </properties>
+              </component>
+              <component id="1792f" class="javax.swing.JLabel" binding="tipLabel">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="1" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="36" style="0"/>
+                  <foreground color="-16777216"/>
+                  <text value="access to our dashborad"/>
+                </properties>
+              </component>
+              <component id="5bd83" class="javax.swing.JTextField" binding="userTextFiled">
+                <constraints>
+                  <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <font size="48" style="0"/>
+                  <margin top="2" left="5" bottom="2" right="5"/>
+                </properties>
+              </component>
+              <component id="f0480" class="javax.swing.JPasswordField" binding="passwordField1" default-binding="true">
+                <constraints>
+                  <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <font size="48" style="0"/>
+                </properties>
+              </component>
+              <component id="e006a" class="javax.swing.JButton" binding="loginButton">
+                <constraints>
+                  <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="1" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-8631574"/>
+                  <font size="48" style="0"/>
+                  <foreground color="-197121"/>
+                  <text value="登录"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </grid>
+      <grid id="33f57" binding="topPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints border-constraint="North"/>
+        <properties>
+          <background color="-591879"/>
+          <preferredSize width="0" height="240"/>
+        </properties>
+        <border type="none"/>
+        <children/>
+      </grid>
+      <grid id="ed7dc" binding="bottomPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints border-constraint="South"/>
+        <properties>
+          <background color="-591879"/>
+          <preferredSize width="0" height="240"/>
+        </properties>
+        <border type="none"/>
+        <children/>
+      </grid>
+      <grid id="565d5" binding="leftPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints border-constraint="West"/>
+        <properties>
+          <background color="-591879"/>
+          <preferredSize width="480" height="0"/>
+        </properties>
+        <border type="none"/>
+        <children/>
+      </grid>
+      <grid id="a4d76" binding="rightPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints border-constraint="East"/>
+        <properties>
+          <background color="-591879"/>
+          <preferredSize width="480" height="0"/>
+        </properties>
+        <border type="none"/>
+        <children/>
+      </grid>
+    </children>
+  </grid>
+</form>
