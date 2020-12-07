@@ -2,41 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e878468-71b1-4105-967c-a80cce67bf97" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/java-basic/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week1/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week1/ArrayTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week1/Fac.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week1/Fac.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week1/IO.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week1/IO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week2/AAA.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week2/AAA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week2/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week2/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week2/CPU.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week2/CPU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week2/CreOb.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week2/CreOb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week2/E.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week2/E.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week2/Group.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week2/Group.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week2/HardDisk.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week2/HardDisk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week2/PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week2/PC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week2/PcTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week2/PcTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week2/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week2/Phone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week2/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week2/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week2/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week2/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week3/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week3/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week3/CircleApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week3/CircleApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week3/Cylinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week3/Cylinder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week3/FormatUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week3/FormatUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week3/OverLoadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week3/OverLoadTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week3/OverloadTestApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week3/OverloadTestApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week3/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week3/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week4/BaseEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week4/BaseEmployee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week4/MarketEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week4/MarketEmployee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week5/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week5/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week5/BookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week5/BookService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week5/BookServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week5/BookServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week5/ExceptionTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week5/ExceptionTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week5/ExceptionTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week5/ExceptionTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week5/MyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week5/MyException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/classes/week5/TestMyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/week5/TestMyException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/target/test-classes/week4/MarketEmployeeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/test-classes/week4/MarketEmployeeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/week1/IO.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/week1/IO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/week3/FormatUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/tools/FormatUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/week3/OverloadTestApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/week3/OverloadTestApp.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +55,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,7 +93,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,16 +172,17 @@
       <workItem from="1604899675281" duration="163000" />
       <workItem from="1604899873930" duration="64000" />
       <workItem from="1605503723264" duration="24000" />
+      <workItem from="1607170721377" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="436000" />
+    <option name="totallyTimeSpent" value="446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -229,7 +199,6 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Codota" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -237,6 +206,7 @@
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Codota" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,4 +1,4 @@
-package week3;
+package tools;
 
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
@@ -13,10 +13,8 @@ import java.util.TimeZone;
  * @Date 2020/10/19
  **/
 public class FormatUtil {
-
-
     public synchronized static String format(Date date){
-        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
         return sdf.format(date);
     }
 
